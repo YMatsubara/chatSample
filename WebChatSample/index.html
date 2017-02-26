@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>JAZUGもくもく会</title>
+    <style type="text/css">
+        ul.example li {
+            margin-bottom: 10px;
+        }
+    </style>
+    <script src="Scripts/jquery-1.6.4.min.js"></script>
+    <script src="Scripts/jquery.signalR-2.2.0.min.js"></script>
+    <script>
+    $(function(){
+        var connection = $.hubConnection();
+        var echo = connection.createHubProxy("Echo");
+        echo.on("Receive", function (text) {
+            $("#list").append("<li>" + text + "</li>");
+        });
+        $("#send").click(function () {
+            var name = $("#name").val();
+            var message = name + "の発言： " + $("#message").val();
+            echo.invoke("Send", message).done(function () {
+                $("#message").val("");
+            });
+        });
+        connection.start(function () {
+            $("send"), prop("disabled", false);
+        });
+    })
+    </script>
+</head>
+<body>
+    <div>
+        <h1>JAZUGもくもく会</h1>
+        
+        <p>
+            名前（必須）：<input type="text" id="name" />
+        </p>
+        <p>
+            メッセージ：<input type="text" id="message" />
+            <input type="button" id="send" value="送信" />
+        </p>
+        <ul class="example" id="list"> </ul>
+    </div>
+</body>
+</html>

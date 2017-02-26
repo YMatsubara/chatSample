@@ -1,0 +1,72 @@
+c:\users\yusuke\documents\visual studio 2015\Projects\WebChatSample\WebChatSample\bin\roslyn\csc.exe
+c:\users\yusuke\documents\visual studio 2015\Projects\WebChatSample\WebChatSample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\yusuke\documents\visual studio 2015\Projects\WebChatSample\WebChatSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\yusuke\documents\visual studio 2015\Projects\WebChatSample\WebChatSample\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\yusuke\documents\visual studio 2015\Projects\WebChatSample\WebChatSample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\yusuke\documents\visual studio 2015\Projects\WebChatSample\WebChatSample\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\yusuke\documents\visual studio 2015\Projects\WebChatSample\WebChatSample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\yusuke\documents\visual studio 2015\Projects\WebChatSample\WebChatSample\bin\roslyn\System.Collections.Immutable.dll
+c:\users\yusuke\documents\visual studio 2015\Projects\WebChatSample\WebChatSample\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\yusuke\documents\visual studio 2015\Projects\WebChatSample\WebChatSample\bin\roslyn\vbc.exe
+c:\users\yusuke\documents\visual studio 2015\Projects\WebChatSample\WebChatSample\bin\roslyn\VBCSCompiler.exe
+c:\users\yusuke\documents\visual studio 2015\Projects\WebChatSample\WebChatSample\bin\roslyn\VBCSCompiler.exe.config
+c:\users\yusuke\documents\visual studio 2015\Projects\WebChatSample\WebChatSample\bin\WebChatSample.dll.config
+c:\users\yusuke\documents\visual studio 2015\Projects\WebChatSample\WebChatSample\bin\WebChatSample.dll
+c:\users\yusuke\documents\visual studio 2015\Projects\WebChatSample\WebChatSample\bin\WebChatSample.pdb
+c:\users\yusuke\documents\visual studio 2015\Projects\WebChatSample\WebChatSample\bin\Microsoft.AspNet.SignalR.Client.dll
+c:\users\yusuke\documents\visual studio 2015\Projects\WebChatSample\WebChatSample\bin\Microsoft.AspNet.SignalR.Core.dll
+c:\users\yusuke\documents\visual studio 2015\Projects\WebChatSample\WebChatSample\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+c:\users\yusuke\documents\visual studio 2015\Projects\WebChatSample\WebChatSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\yusuke\documents\visual studio 2015\Projects\WebChatSample\WebChatSample\bin\Microsoft.Owin.dll
+c:\users\yusuke\documents\visual studio 2015\Projects\WebChatSample\WebChatSample\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\yusuke\documents\visual studio 2015\Projects\WebChatSample\WebChatSample\bin\Microsoft.Owin.Security.dll
+c:\users\yusuke\documents\visual studio 2015\Projects\WebChatSample\WebChatSample\bin\Microsoft.Web.Infrastructure.dll
+c:\users\yusuke\documents\visual studio 2015\Projects\WebChatSample\WebChatSample\bin\Newtonsoft.Json.dll
+c:\users\yusuke\documents\visual studio 2015\Projects\WebChatSample\WebChatSample\bin\Owin.dll
+c:\users\yusuke\documents\visual studio 2015\Projects\WebChatSample\WebChatSample\bin\Microsoft.AspNet.SignalR.Client.xml
+c:\users\yusuke\documents\visual studio 2015\Projects\WebChatSample\WebChatSample\bin\Microsoft.AspNet.SignalR.Core.xml
+c:\users\yusuke\documents\visual studio 2015\Projects\WebChatSample\WebChatSample\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+c:\users\yusuke\documents\visual studio 2015\Projects\WebChatSample\WebChatSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\yusuke\documents\visual studio 2015\Projects\WebChatSample\WebChatSample\bin\Microsoft.Owin.xml
+c:\users\yusuke\documents\visual studio 2015\Projects\WebChatSample\WebChatSample\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\yusuke\documents\visual studio 2015\Projects\WebChatSample\WebChatSample\bin\Microsoft.Owin.Security.xml
+c:\users\yusuke\documents\visual studio 2015\Projects\WebChatSample\WebChatSample\bin\Newtonsoft.Json.xml
+c:\users\yusuke\documents\visual studio 2015\Projects\WebChatSample\WebChatSample\obj\Release\WebChatSample.dll
+c:\users\yusuke\documents\visual studio 2015\Projects\WebChatSample\WebChatSample\obj\Release\WebChatSample.pdb
+C:\Users\Yusuke\Documents\Visual Studio 2015\Projects\WebChatSample\WebChatSample\obj\Release\WebChatSample.csprojResolveAssemblyReference.cache
+C:\Users\matsu\Desktop\WebChatSample\WebChatSample\WebChatSample\bin\roslyn\csc.exe
+C:\Users\matsu\Desktop\WebChatSample\WebChatSample\WebChatSample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\matsu\Desktop\WebChatSample\WebChatSample\WebChatSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\matsu\Desktop\WebChatSample\WebChatSample\WebChatSample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\matsu\Desktop\WebChatSample\WebChatSample\WebChatSample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\matsu\Desktop\WebChatSample\WebChatSample\WebChatSample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\matsu\Desktop\WebChatSample\WebChatSample\WebChatSample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\matsu\Desktop\WebChatSample\WebChatSample\WebChatSample\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\matsu\Desktop\WebChatSample\WebChatSample\WebChatSample\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\matsu\Desktop\WebChatSample\WebChatSample\WebChatSample\bin\roslyn\vbc.exe
+C:\Users\matsu\Desktop\WebChatSample\WebChatSample\WebChatSample\bin\roslyn\VBCSCompiler.exe
+C:\Users\matsu\Desktop\WebChatSample\WebChatSample\WebChatSample\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\matsu\Desktop\WebChatSample\WebChatSample\WebChatSample\bin\WebChatSample.dll.config
+C:\Users\matsu\Desktop\WebChatSample\WebChatSample\WebChatSample\bin\WebChatSample.dll
+C:\Users\matsu\Desktop\WebChatSample\WebChatSample\WebChatSample\bin\WebChatSample.pdb
+C:\Users\matsu\Desktop\WebChatSample\WebChatSample\WebChatSample\bin\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\matsu\Desktop\WebChatSample\WebChatSample\WebChatSample\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\matsu\Desktop\WebChatSample\WebChatSample\WebChatSample\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\matsu\Desktop\WebChatSample\WebChatSample\WebChatSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\matsu\Desktop\WebChatSample\WebChatSample\WebChatSample\bin\Microsoft.Owin.dll
+C:\Users\matsu\Desktop\WebChatSample\WebChatSample\WebChatSample\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\matsu\Desktop\WebChatSample\WebChatSample\WebChatSample\bin\Microsoft.Owin.Security.dll
+C:\Users\matsu\Desktop\WebChatSample\WebChatSample\WebChatSample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\matsu\Desktop\WebChatSample\WebChatSample\WebChatSample\bin\Newtonsoft.Json.dll
+C:\Users\matsu\Desktop\WebChatSample\WebChatSample\WebChatSample\bin\Owin.dll
+C:\Users\matsu\Desktop\WebChatSample\WebChatSample\WebChatSample\bin\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\matsu\Desktop\WebChatSample\WebChatSample\WebChatSample\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\matsu\Desktop\WebChatSample\WebChatSample\WebChatSample\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\matsu\Desktop\WebChatSample\WebChatSample\WebChatSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\matsu\Desktop\WebChatSample\WebChatSample\WebChatSample\bin\Microsoft.Owin.xml
+C:\Users\matsu\Desktop\WebChatSample\WebChatSample\WebChatSample\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\matsu\Desktop\WebChatSample\WebChatSample\WebChatSample\bin\Microsoft.Owin.Security.xml
+C:\Users\matsu\Desktop\WebChatSample\WebChatSample\WebChatSample\bin\Newtonsoft.Json.xml
+C:\Users\matsu\Desktop\WebChatSample\WebChatSample\WebChatSample\obj\Release\WebChatSample.csprojResolveAssemblyReference.cache
+C:\Users\matsu\Desktop\WebChatSample\WebChatSample\WebChatSample\obj\Release\WebChatSample.dll
+C:\Users\matsu\Desktop\WebChatSample\WebChatSample\WebChatSample\obj\Release\WebChatSample.pdb

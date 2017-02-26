@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebChatSample", "WebChatSample\WebChatSample.csproj", "{4AD8A714-E57B-428F-A907-57914CDD5EA1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PublishScripts", "PublishScripts", "{CECBE5C8-8DD8-4600-8DEC-191E0D283060}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{7B69B036-5C7F-4C16-9786-330E6629119C}"
+	ProjectSection(SolutionItems) = preProject
+		PublishScripts\Scripts\Deploy-AzureResourceGroup.ps1 = PublishScripts\Scripts\Deploy-AzureResourceGroup.ps1
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Templates", "Templates", "{7C358B7D-2D81-4DDA-80AC-3992FDBABFD7}"
+	ProjectSection(SolutionItems) = preProject
+		PublishScripts\Templates\WebChatSample.json = PublishScripts\Templates\WebChatSample.json
+		PublishScripts\Templates\WebChatSample.param.dev.json = PublishScripts\Templates\WebChatSample.param.dev.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AD8A714-E57B-428F-A907-57914CDD5EA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AD8A714-E57B-428F-A907-57914CDD5EA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AD8A714-E57B-428F-A907-57914CDD5EA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AD8A714-E57B-428F-A907-57914CDD5EA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7B69B036-5C7F-4C16-9786-330E6629119C} = {CECBE5C8-8DD8-4600-8DEC-191E0D283060}
+		{7C358B7D-2D81-4DDA-80AC-3992FDBABFD7} = {CECBE5C8-8DD8-4600-8DEC-191E0D283060}
+	EndGlobalSection
+EndGlobal
